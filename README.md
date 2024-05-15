@@ -1,8 +1,8 @@
-# Guia Completo de Python para Iniciantes
+# Guia Python para Iniciantes
 
 ## Descrição
 
-Este eBook foi criado para fornecer uma introdução completa e prática à programação em Python. Ele cobre conceitos básicos como variáveis, tipos de dados, operadores, estruturas de controle, e entrada de usuário, além de incluir exemplos práticos e exercícios. O objetivo é ajudar iniciantes a desenvolverem uma base sólida em Python e se prepararem para desafios mais avançados.
+Este eBook foi criado para fornecer uma introdução e prática à programação em Python. Ele cobre conceitos básicos como variáveis, tipos de dados, operadores, estruturas de controle, e entrada de usuário, além de incluir exemplos práticos e exercícios. O objetivo é ajudar iniciantes a desenvolverem uma base sólida em Python e se prepararem para desafios mais avançados.
 
 ## Sumário
 
